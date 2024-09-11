@@ -1,0 +1,14 @@
+.vinay {
+  background: linear-gradient(to right, #ff7e5f, #feb47b);
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  list-style: none;
+  text-align: center;
+  margin-left: 10px;
+  border: none;
+  font-family: Roboto;
+  font-weight: bold;
+  background-color: transparent;
+}
